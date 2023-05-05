@@ -1,0 +1,42 @@
+.green-text {
+  color: green;
+}
+.movie-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.Container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.movie-rating .fa-star {
+  color: gold;
+}
+
+
+
+.movie-title {
+  display: flex;
+  align-items: center;
+
+
+
+}
+
+.movie-title .card-title {
+  margin-right: 10px;
+}
+
+.movie-rating {
+  margin-top: 5px;
+}
+
+.movie-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 0.9rem;
+}
